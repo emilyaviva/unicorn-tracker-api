@@ -1,5 +1,5 @@
-# Unicorn Tracker - Backend
-This is the backend for the [Unicorn Tracker frontend](emilyaviva/unicorn-tracker-frontend).
+# Unicorn Tracker - API
+This is the backend for the [Unicorn Tracker frontend](https://github.com/emilyaviva/unicorn-tracker-frontend).
 
 ## Initial setup
 You'll need to add some unicorns to start with. Run `rails db:seed` to seed a few into your database.
