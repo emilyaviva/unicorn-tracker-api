@@ -10,3 +10,6 @@ Run with `bin/rails server --port=3001` (the frontend is hard-coded to expect th
 ### Not seeing any unicorns?
 - Did you add unicorns by seeding the data or adding them from the console?
 - Are your servers started on the correct ports?
+
+## Testing
+Run `bundle exec rspec` to run the test suite!
